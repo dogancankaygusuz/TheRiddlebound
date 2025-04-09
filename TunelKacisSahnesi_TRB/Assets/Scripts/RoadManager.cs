@@ -10,8 +10,8 @@ public class RoadManager : MonoBehaviour
     public Transform player;
 
     // Ayný anda kaç tane duvar ve yol olacak
-    public int numberOfSegments = 5;
-    public int numberOfWalls = 10;
+    public int numberOfSegments = 7;
+    public int numberOfWalls = 12;
 
     // Yol ve duvar prefab uzunluklarý
     public float segmentLength = 20f;  
@@ -27,7 +27,7 @@ public class RoadManager : MonoBehaviour
 
     void Start()
     {
-        // Baþlangýçta 5 tane yol, 10 tane duvar prefabý oluþturduk.
+        // Baþlangýçta 7 tane yol, 12 tane duvar prefabý oluþturduk.
         for (int i = 0; i < numberOfSegments; i++)
         {
             SpawnSegment();
@@ -37,7 +37,6 @@ public class RoadManager : MonoBehaviour
             SpawnWall();
         }
     }
-
     void Update()
     {
         // Player'ýn z pozisyonu öndeki prefablarýn z posizyonunun yakýnýna geldiyse

@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Unity\\TunelKacisSahnesi_TRB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|c:\\unity\\tunelkacissahnesi_trb\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|C:\\Unity\\TunelKacisSahnesi_TRB\\assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|c:\\unity\\tunelkacissahnesi_trb\\assets\\scripts\\camerashack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|C:\\Unity\\TunelKacisSahnesi_TRB\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|C:\\Unity\\TunelKacisSahnesi_TRB\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|c:\\unity\\tunelkacissahnesi_trb\\assets\\scripts\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|C:\\Unity\\TunelKacisSahnesi_TRB\\assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|C:\\Unity\\TunelKacisSahnesi_TRB\\assets\\scripts\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB852172-5E56-B229-7624-CBEDA8A94115}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerJump.cs",
+              "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerJump.cs",
+              "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:24:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CameraShack.cs",
+              "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\CameraShack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShack.cs",
+              "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\CameraShack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShack.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:29:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:02:26.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObstacleManager.cs",
+              "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\ObstacleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleManager.cs",
+              "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\ObstacleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:46:37.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RoadManager.cs",
               "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\RoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoadManager.cs",
               "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\RoadManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RoadManager.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAswFQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T20:15:34.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Unity\\TunelKacisSahnesi_TRB\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T20:06:40.825Z",
               "EditorCaption": ""
