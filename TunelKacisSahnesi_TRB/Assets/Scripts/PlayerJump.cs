@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerJump : MonoBehaviour
 {
-    [SerializeField] private float jumpForce = 5f; // zýplama hýzý
+    [SerializeField] private float jumpForce = 5f; // ziplama hizi
     [SerializeField] private AudioClip jumpSound; // ziplama sesi
 
     private AudioSource audioSource;
@@ -12,7 +12,7 @@ public class PlayerJump : MonoBehaviour
     private Animator animator; 
     private bool isGrounded; // zemin kontrolu
     private int jumpCount = 0; // Ziplama sayisi
-    private int maxJumpCount = 2; // Maksimum zýplama sayýsý
+    private int maxJumpCount = 2; // Maksimum zÃ½plama sayisi
 
     void Start()
     {
