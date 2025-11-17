@@ -43,5 +43,3 @@ Geliştirme sırasında amaç:
 - Sahne yönetiminde **Observer & State Pattern** prensiplerini uygulamak
 
 ---
-
-## 🗂️ Klasör Yapısı
